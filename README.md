@@ -222,10 +222,10 @@ I'm a Senior Full-stack Developer!
 
 ## Top Project Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartdev555&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetdev108&layout=compact&theme=midnight-purple)
 
 ## Stats
 
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=smartdev555&theme=midnight-purple)
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=sweetdev108&theme=midnight-purple)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smartdev555&theme=midnight-purple&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sweetdev108&theme=midnight-purple&show_icons=true)
