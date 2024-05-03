@@ -228,4 +228,4 @@ I'm a Senior Full-stack Developer!
 
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=sweetdev108&theme=midnight-purple)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sweetdev108&theme=midnight-purple&show_icons=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sweetdev108&theme=midnight-purple&show_icons=true) -->
